@@ -48,12 +48,12 @@ function __theme_gruvbox_base
 end
 
 function __theme_gruvbox_light
-  set -l bg 'fd/f2/c1'
+  set -l bg 'fb/f1/c7'
   switch $contrast
     case "soft"
-      set bg 'f3/e8/ba'
+      set bg 'f2/e5/bc'
     case "hard"
-      set bg 'ff/ff/c8'
+      set bg 'f9/f5/d7'
   end
   command printf "\033]11;rgb:$bg\007"
 
