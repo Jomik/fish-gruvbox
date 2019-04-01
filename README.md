@@ -13,7 +13,7 @@ The first is the mode, either `light` or `dark`.
 The second is the contrast, `soft`, `medium` or `hard`.
 The defaults are `light` and `medium`.
 
-To automatically get this theme, called `theme_gruvbox` from your `config.fish`.
+To automatically apply this theme, call `theme_gruvbox` from your `config.fish`.
 
 [gruvbox]: https://github.com/morhetz/gruvbox
 [fish shell]: http://fishshell.com/
