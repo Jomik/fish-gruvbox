@@ -4,7 +4,7 @@
 # Install
 With [fisherman]
 ```
-fisher add jomik/fish-gruvbox
+fisher install jomik/fish-gruvbox
 ```
 
 This will expose the function called `theme_gruvbox`.
